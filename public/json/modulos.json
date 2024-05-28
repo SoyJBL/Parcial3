@@ -1,0 +1,302 @@
+[
+  {
+    "imagen": "https://i.ytimg.com/vi/2SetvwBV-SU/hqdefault.jpg",
+    "titulo": "Fundamentos de JavaScript",
+    "temas": [
+      {
+        "nombre": "Introducción",
+        "descripcion": "JavaScript es un lenguaje de programación multiplataforma orientado a objetos que se utiliza para hacer que las páginas web sean interactivas (por ejemplo, animaciones, botones en los que se puede hacer clic, menús emergentes, etc.). También hay versiones de JavaScript del lado del servidor, como Node.js, que permiten agregar más funcionalidad a un sitio web, como la colaboración en tiempo real entre varias computadoras. Dentro de un entorno (por ejemplo, un navegador web), JavaScript se puede conectar a los objetos de su entorno para proporcionar control programático sobre ellos.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=2SetvwBV-SU"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=BS5RX27VaAQ"
+          }
+        ]
+      },
+      {
+        "nombre": "Variables y Tipos de Datos",
+        "descripcion": "En JavaScript, una variable es un contenedor para almacenar datos. Las variables se declaran con las palabras clave var, let o const. Los tipos de datos en JavaScript incluyen primitivos como números, cadenas de texto, booleanos, null, undefined y símbolos. Además, JavaScript permite trabajar con tipos de datos complejos como objetos y arrays. La declaración y uso adecuado de variables es fundamental para la gestión de datos en las aplicaciones JavaScript.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=tmRa0_EvMoc"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=PIHZRj99nHU"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=s-C8OpALC6E"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=o4p6p1z2P5A"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=Csu9tRuuX0M"
+          }
+        ]
+      },
+      {
+        "nombre": "Operadores",
+        "descripcion": "JavaScript proporciona una variedad de operadores que se utilizan para realizar operaciones sobre variables y valores. Los operadores aritméticos (como +, -, *, /) se utilizan para realizar cálculos matemáticos. Los operadores de comparación (como ==, ===, !=, !==) se utilizan para comparar valores. Los operadores lógicos (como &&, ||, !) se utilizan para combinar expresiones booleanas. Además, existen operadores de asignación, bit a bit y otros operadores especiales como el operador ternario.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=_8Z5AeGVIXE"
+          }
+        ]
+      },
+      {
+        "nombre": "Estructuras de Control",
+        "descripcion": "Las estructuras de control en JavaScript permiten controlar el flujo de ejecución de un programa. Las declaraciones condicionales (if, else if, else y switch) permiten ejecutar código diferente basado en ciertas condiciones. Los bucles (for, while, do-while) permiten repetir un bloque de código varias veces. También existen declaraciones como break y continue que controlan el flujo dentro de los bucles. Estas estructuras son esenciales para crear lógica en los programas JavaScript.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=AapgtR0Rwk0"
+          }
+        ]
+      },
+      {
+        "nombre": "Funciones",
+        "descripcion": "Las funciones en JavaScript son bloques de código reutilizables que realizan una tarea específica. Una función puede ser declarada usando la palabra clave function, seguida de un nombre, parámetros y un cuerpo de función. También se pueden crear funciones anónimas y funciones flecha (arrow functions) introducidas en ES6. Las funciones pueden recibir argumentos y devolver valores. Además, las funciones en JavaScript tienen un contexto de ejecución (this) y pueden ser anidadas y utilizadas de manera recursiva.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=H6U1Pm7x60E"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "imagen": "https://i.ytimg.com/vi/nS5FmAx4u_0/hqdefault.jpg",
+    "titulo": "Programación Orientada a Objetos",
+    "temas": [
+      {
+        "nombre": "Introducción a POO",
+        "descripcion": "La Programación Orientada a Objetos (POO) es un paradigma de programación basado en el concepto de 'objetos', que pueden contener datos y código para manipular esos datos. En JavaScript, la POO se implementa mediante prototipos y, más recientemente, mediante la sintaxis de clases introducida en ES6. Los principios fundamentales de la POO son encapsulamiento, abstracción, herencia y polimorfismo. Estos principios permiten crear aplicaciones más modularizadas, reutilizables y fáciles de mantener.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=nS5FmAx4u_0"
+          }
+        ]
+      },
+      {
+        "nombre": "Clases y Objetos",
+        "descripcion": "En JavaScript, una clase es una plantilla para crear objetos con propiedades y métodos predefinidos. Se pueden definir clases utilizando la sintaxis class de ES6. Los objetos son instancias de clases que contienen datos (propiedades) y funciones (métodos). El constructor es un método especial para inicializar objetos. Las clases pueden tener propiedades y métodos estáticos y de instancia. Las clases ayudan a organizar y estructurar el código de manera más lógica y modular.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=C86JvqET61A"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=TEzu31q9MVA"
+          }
+        ]
+      },
+      {
+        "nombre": "Herencia",
+        "descripcion": "La herencia en JavaScript permite que una clase derive de otra clase, heredando sus propiedades y métodos. Se utiliza la palabra clave extends para crear una subclase que hereda de una superclase. El método super se utiliza para llamar al constructor y otros métodos de la clase padre. La herencia permite la reutilización de código y la creación de jerarquías de clases más lógicas. Este mecanismo es fundamental para implementar diseños orientados a objetos más complejos y estructurados.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=1-m7xtwvH1E"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=C86JvqET61A"
+          }
+        ]
+      },
+      {
+        "nombre": "Polimorfismo",
+        "descripcion": "El polimorfismo es la capacidad de diferentes clases para ser tratadas como instancias de la misma clase a través de una interfaz común. En JavaScript, el polimorfismo se logra mediante la sobrescritura de métodos (override) en las subclases. Esto permite que las subclases proporcionen implementaciones específicas de métodos que se definen en la clase padre. El polimorfismo es crucial para el diseño de sistemas flexibles y extensibles, permitiendo que el mismo método actúe de manera diferente según el objeto que lo invoque.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=KOTKt8cpczM"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=8DUu2tJxnVs"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=SI7O81GMG2A"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "imagen": "https://i.ytimg.com/vi/dF7lp_qBfV0/hqdefault.jpg",
+    "titulo": "Manipulación del DOM",
+    "temas": [
+      {
+        "nombre": "Selección de Elementos",
+        "descripcion": "La selección de elementos del DOM (Document Object Model) en JavaScript se realiza utilizando métodos como getElementById, getElementsByClassName, getElementsByTagName, querySelector y querySelectorAll. Estos métodos permiten acceder y manipular elementos HTML específicos en la página web. Comprender cómo seleccionar elementos es fundamental para cualquier operación de manipulación del DOM, como cambiar el contenido, las clases o los estilos de los elementos seleccionados.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=dF7lp_qBfV0"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=zBmtmlB5b5g"
+          }
+        ]
+      },
+      {
+        "nombre": "Eventos",
+        "descripcion": "Los eventos en JavaScript son acciones o sucesos que ocurren en el navegador, como clics del mouse, presiones de teclas, o movimientos del mouse. Se pueden manejar eventos mediante la adición de 'event listeners' a los elementos del DOM usando métodos como addEventListener. Los eventos permiten a los desarrolladores agregar interactividad a sus páginas web. Es crucial entender el modelo de eventos, cómo se propagan los eventos (captura y burbuja) y cómo se pueden prevenir eventos predeterminados.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=IQchmLGDXgU"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=2oHVjLrnRmY"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=myEsMzsJEFg"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=2LgnPW_VZYU"
+          }
+        ]
+      },
+      {
+        "nombre": "Manipulación de Contenidos",
+        "descripcion": "La manipulación de contenidos en el DOM permite modificar el contenido de los elementos HTML. Esto se puede hacer utilizando propiedades como innerHTML, innerText y textContent. También se pueden crear y eliminar elementos dinámicamente utilizando métodos como createElement y removeChild. Manipular el contenido del DOM es esencial para actualizar la interfaz de usuario en respuesta a interacciones del usuario o cambios en los datos.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=ezjxA4o2-Ck"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=Q9y9BugN8-s"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=tqqw2b1kasg"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=tFSFX37Yah4"
+          }
+        ]
+      },
+      {
+        "nombre": "Estilos y Clases",
+        "descripcion": "En JavaScript, se pueden manipular los estilos CSS de los elementos del DOM mediante la propiedad style. También se pueden agregar, eliminar o alternar clases CSS usando classList y sus métodos add, remove y toggle. La manipulación de estilos y clases es fundamental para cambiar la apariencia de los elementos en respuesta a eventos del usuario, como hacer clic en un botón para resaltar un elemento.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=asR6_XGzI3s"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=x1bzRMEH89A"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "imagen": "https://i.ytimg.com/vi/TYG2_iUr8XY/hqdefault.jpg",
+    "titulo": "Asincronía en JavaScript",
+    "temas": [
+      {
+        "nombre": "Callbacks",
+        "descripcion": "Los callbacks son funciones que se pasan como argumentos a otras funciones y se ejecutan después de que se complete una operación asincrónica. Los callbacks son fundamentales en JavaScript para manejar operaciones asincrónicas, como solicitudes a APIs, temporizadores, y eventos del DOM. Sin embargo, el uso excesivo de callbacks puede llevar a un código difícil de mantener, conocido como 'callback hell'.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=TYG2_iUr8XY"
+          }
+        ]
+      },
+      {
+        "nombre": "Promesas",
+        "descripcion": "Las promesas en JavaScript son objetos que representan el eventual resultado de una operación asincrónica. Una promesa puede estar en uno de tres estados: pendiente, resuelta o rechazada. Las promesas mejoran la legibilidad del código al evitar la anidación excesiva de callbacks. Se manejan mediante los métodos then y catch, y permiten encadenar múltiples operaciones asincrónicas de manera más clara.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=ppzrpTjwEC8"
+          }
+        ]
+      },
+      {
+        "nombre": "Async/Await",
+        "descripcion": "Async/Await es una sintaxis introducida en ES8 que simplifica el trabajo con promesas. Las funciones declaradas con async devuelven una promesa y permiten el uso de la palabra clave await, que pausa la ejecución de la función hasta que la promesa se resuelva o rechace. Este enfoque hace que el código asincrónico se vea y se comporte de manera similar al código sincrónico, mejorando la legibilidad y reduciendo el riesgo de errores.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=PbI5EEpodPM"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=SBr_EVNErPk"
+          }
+        ]
+      },
+      {
+        "nombre": "Fetch API",
+        "descripcion": "La Fetch API es una interfaz moderna para realizar solicitudes HTTP en JavaScript. Reemplaza a XMLHttpRequest y permite hacer solicitudes asíncronas de manera más sencilla y con mejor legibilidad. Fetch devuelve promesas, lo que facilita el manejo de respuestas y errores de las solicitudes. La API es flexible y soporta una amplia gama de opciones para configurar las solicitudes, como métodos HTTP, encabezados, y cuerpos de solicitud.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=dYB1UlGGmfk"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=GP8OCiJLeN4"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=2M4Ur8aa6MY"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=Fu8U4ICAO_Y"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "imagen": "https://i.ytimg.com/vi/mG4U9t5nWG8/hqdefault.jpg",
+    "titulo": "Introducción a Node.js",
+    "temas": [
+      {
+        "nombre": "Instalación y Configuración",
+        "descripcion": "Node.js es un entorno de ejecución para JavaScript que permite ejecutar código JavaScript en el servidor. Para comenzar a usar Node.js, primero necesitas instalarlo desde el sitio oficial. Una vez instalado, puedes verificar la instalación utilizando el comando 'node -v' para ver la versión instalada. Configurar tu entorno de desarrollo para trabajar con Node.js incluye instalar un editor de texto como Visual Studio Code y familiarizarte con la línea de comandos para ejecutar scripts de Node.js.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=mG4U9t5nWG8"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=e8n_9N-ZyFE"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=29iYdru2KUg"
+          }
+        ]
+      },
+      {
+        "nombre": "Módulos y Paquetes",
+        "descripcion": "Node.js utiliza un sistema de módulos para organizar y reutilizar el código. Los módulos son archivos JavaScript que exportan funciones, objetos o valores que pueden ser requeridos en otros módulos usando la función require(). Además, Node.js cuenta con npm (Node Package Manager), una herramienta para gestionar paquetes de terceros que pueden ser fácilmente instalados y utilizados en tus proyectos. Entender cómo funcionan los módulos y paquetes es esencial para desarrollar aplicaciones escalables y mantenibles con Node.js.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=w-hKkMQR5O8"
+          }
+        ]
+      },
+      {
+        "nombre": "Servidores http",
+        "descripcion": "Node.js permite crear servidores HTTP de manera sencilla utilizando  'HTTP'. Un servidor en Node.js puede manejar solicitudes y enviar respuestas, lo que es fundamental para construir aplicaciones web y APIs. Aprenderás a crear un servidor básico que escuche en un puerto específico, procese solicitudes y envíe respuestas adecuadas. También explorarás cómo manejar diferentes tipos de solicitudes HTTP (GET, POST, etc.) y trabajar con datos de formularios y JSON.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=52XZhmLWJzY"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=gXFS4OQ34UI"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=gMvS7gp_fyg"
+          }
+        ]
+      },
+      {
+        "nombre": "Express.js",
+        "descripcion": "Express.js es un framework web para Node.js que simplifica la creación de aplicaciones web y APIs. Express proporciona una capa de abstracción sobre el módulo 'http' de Node.js, ofreciendo una interfaz más sencilla y potente para manejar rutas, middleware, y solicitudes HTTP. Con Express, puedes definir rutas para manejar diferentes endpoints de tu aplicación y usar middleware para gestionar tareas comunes como la autenticación, el manejo de errores, y la manipulación de datos.",
+        "urlvideos": [
+          {
+            "url": "https://www.youtube.com/watch?v=ccsm8vGFMIA"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=VmH4tPbbDsM"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=1cHUZQFb4bo"
+          }
+        ]
+      }
+    ]
+  }
+]

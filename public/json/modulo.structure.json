@@ -1,0 +1,83 @@
+[
+  {
+    "imagen": "http:example.com/imagen.jpg",
+    "titulo": "titulo",
+    "temas": {
+      "tema1": {
+        "nombre": "nombre del tema",
+        "descripcion": "cuerpo",
+        "urlvideos": [
+          {
+            "url": ""
+          },
+          {
+            "url": ""
+          },
+          {
+            "url": ""
+          }
+        ]
+      },
+      "tema2": {
+        "nombre": "nombre del tema",
+        "descripcion": "cuerpo",
+        "urlvideos": [
+          {
+            "url": ""
+          },
+          {
+            "url": ""
+          },
+          {
+            "url": ""
+          }
+        ]
+      },
+      "tema3": {
+        "nombre": "nombre del tema",
+        "descripcion": "cuerpo",
+        "urlvideos": [
+          {
+            "url": ""
+          },
+          {
+            "url": ""
+          },
+          {
+            "url": ""
+          }
+        ]
+      },
+      "tema4": {
+        "nombre": "nombre del tema",
+        "descripcion": "cuerpo",
+        "urlvideos": [
+          {
+            "url": ""
+          },
+          {
+            "url": ""
+          },
+          {
+            "url": ""
+          }
+        ]
+      },
+      "tema5": {
+        "nombre": "nombre del tema",
+        "descripcion": "cuerpo",
+        "urlvideos": [
+          {
+            "url": ""
+          },
+          {
+            "url": ""
+          },
+          {
+            "url": ""
+          }
+        ]
+      }
+    }
+  }
+]
